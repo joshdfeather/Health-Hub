@@ -8,5 +8,5 @@ Back End
 - Reverse engineered Python script used sockets to get input
 
 Front End
-- Used JavaScript, HTML and CSS ty
-- Developed Graphing, Alarm and Design
+- Implemented Graphing, Alarm and Design features
+- Used JavaScript, HTML and CSS assisted by Replit web app developer
